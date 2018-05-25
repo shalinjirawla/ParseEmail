@@ -1,0 +1,109 @@
+﻿Installing assembly 'F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.InstallLog
+Installing service EmailSender...
+Creating EventLog source EmailSender in log Application...
+Rolling back assembly 'F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.InstallLog
+Restoring event log to previous state for source EmailSender.
+Installing assembly 'F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.InstallLog
+Installing service EmailSender...
+Creating EventLog source EmailSender in log Application...
+Rolling back assembly 'F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.InstallLog
+Restoring event log to previous state for source EmailSender.
+Installing assembly 'F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.InstallLog
+Installing service EmailSender...
+Creating EventLog source EmailSender in log Application...
+Rolling back assembly 'F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.InstallLog
+Restoring event log to previous state for source EmailSender.
+Installing assembly 'F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.InstallLog
+Installing service EmailSender...
+Creating EventLog source EmailSender in log Application...
+Rolling back assembly 'F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.InstallLog
+Restoring event log to previous state for source EmailSender.
+Installing assembly 'F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.InstallLog
+Installing service EmailSender...
+Creating EventLog source EmailSender in log Application...
+Rolling back assembly 'F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.InstallLog
+Restoring event log to previous state for source EmailSender.
+Uninstalling assembly 'F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.InstallLog
+Removing EventLog source EmailSender.
+Warning: The source EmailSender is not registered on the local machine.
+Service EmailSender is being removed from the system...
+Service EmailSender was successfully removed from the system.
+Uninstalling assembly 'F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.InstallLog
+Removing EventLog source EmailSender.
+Warning: The source EmailSender is not registered on the local machine.
+Service EmailSender is being removed from the system...
+Service EmailSender was successfully removed from the system.
+Installing assembly 'F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.InstallLog
+Installing service EmailSender...
+Creating EventLog source EmailSender in log Application...
+Rolling back assembly 'F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.InstallLog
+Restoring event log to previous state for source EmailSender.
+Installing assembly 'F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.InstallLog
+Installing service EmailSender...
+Service EmailSender has been successfully installed.
+Creating EventLog source EmailSender in log Application...
+Committing assembly 'F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.InstallLog

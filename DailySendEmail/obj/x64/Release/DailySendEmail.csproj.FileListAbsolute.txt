@@ -1,0 +1,10 @@
+F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe.config
+F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.exe
+F:\DailySendEmail\DailySendEmail\bin\x64\Release\DailySendEmail.pdb
+F:\DailySendEmail\DailySendEmail\bin\x64\Release\EAGetMail45.dll
+F:\DailySendEmail\DailySendEmail\obj\x64\Release\DailySendEmail.ProjectInstaller.resources
+F:\DailySendEmail\DailySendEmail\obj\x64\Release\DailySendEmail.csproj.GenerateResource.cache
+F:\DailySendEmail\DailySendEmail\obj\x64\Release\DailySendEmail.csproj.CoreCompileInputs.cache
+F:\DailySendEmail\DailySendEmail\obj\x64\Release\DailySendEmail.csproj.CopyComplete
+F:\DailySendEmail\DailySendEmail\obj\x64\Release\DailySendEmail.exe
+F:\DailySendEmail\DailySendEmail\obj\x64\Release\DailySendEmail.pdb

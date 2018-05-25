@@ -1,0 +1,95 @@
+﻿Uninstalling assembly 'F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.InstallLog
+Removing EventLog source EmailSender.
+Warning: The source EmailSender is not registered on the local machine.
+Service EmailSender is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.InstallLog
+Installing service EmailSender...
+Service EmailSender has been successfully installed.
+Creating EventLog source EmailSender in log Application...
+Committing assembly 'F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.InstallLog
+Uninstalling assembly 'F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.InstallLog
+Removing EventLog source EmailSender.
+Service EmailSender is being removed from the system...
+Service EmailSender was successfully removed from the system.
+Installing assembly 'F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.InstallLog
+Installing service EmailSender...
+Creating EventLog source EmailSender in log Application...
+Rolling back assembly 'F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.InstallLog
+Restoring event log to previous state for source EmailSender.
+Uninstalling assembly 'F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.InstallLog
+Removing EventLog source EmailSender.
+Warning: The source EmailSender is not registered on the local machine.
+Service EmailSender is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.InstallLog
+Installing service EmailSender...
+Service EmailSender has been successfully installed.
+Creating EventLog source EmailSender in log Application...
+Committing assembly 'F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.InstallLog
+Uninstalling assembly 'F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.InstallLog
+Removing EventLog source EmailSender.
+Service EmailSender is being removed from the system...
+Service EmailSender was successfully removed from the system.
+Uninstalling assembly 'F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.InstallLog
+Removing EventLog source EmailSender.
+Warning: The source EmailSender is not registered on the local machine.
+Service EmailSender is being removed from the system...
+Service EmailSender was successfully removed from the system.
+Uninstalling assembly 'F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.exe
+   logfile = F:\DailySendEmail\DailySendEmail\bin\Debug\DailySendEmail.InstallLog
+Removing EventLog source EmailSender.
+Warning: The source EmailSender is not registered on the local machine.
+Service EmailSender is being removed from the system...
+Service EmailSender was successfully removed from the system.
